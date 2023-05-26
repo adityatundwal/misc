@@ -9,14 +9,13 @@
 <a href="https://www.hackerearth.com/@Aditya_tundwal" target="_blank"><img alt="" src="https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=adityatundwal&show_icons=true&hide_border=false&theme=algolia&count_private=true&include_all_commits=true&layout=normal)
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=adityatundwal&theme=algolia&date_format=j%20M%5B%20Y%5D&layout=normal)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityatundwal&show_icons=true&hide_border=false&theme=algolia&count_private=true&include_all_commits=true&layout=normal)
-[![adityatundwal's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=adityatundwal&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats&layout=normal)
-
-
-
+<a href="https://github.com/adityatundwal/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=adityatundwal&show_icons=true&hide_border=false&theme=algolia&count_private=true&include_all_commits=true&layout=normal" />
+</a>
+<a href="https://github.com/adityatundwal/github-readme-stats">
+  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=adityatundwal&theme=algolia&date_format=j%20M%5B%20Y%5D&layout=normal" />
+</a>
 
 
 
